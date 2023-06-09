@@ -1,2 +1,2 @@
 # Housing-
-APPLYING MACHINE LEARNING TECHNIQUES TO GAIN INSIGHTS INTO THE REAL ESTATE MARKET.
+Applied Machine Learning techniques to gain insights into the real estate market.
